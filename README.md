@@ -12,5 +12,7 @@
 windows 桌面待办软件[愚记待办](https://github.com/denganjia/yuji-todo)
 
 Vue3后台管理系统框架[Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
+
+React管理系统框架[YuJI-Admin](https://github.com/denganjia/YuJiAdmin)
   
 
