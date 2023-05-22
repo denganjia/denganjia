@@ -9,10 +9,11 @@
   
 ## 最近正在做的
 
-windows 桌面待办软件[愚记待办](https://github.com/denganjia/yuji-todo)
+根据swagger文档生成typescript类型定义[swagger2ts](https://github.com/denganjia/swagger2ts-rust-cli)
+
+rust结构体映射到openapi[openapi-schema](https://github.com/denganjia/openapi-schema)
 
 Vue3后台管理系统框架[Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)
 
-React管理系统框架[YuJI-Admin](https://github.com/denganjia/YuJiAdmin)
   
 
